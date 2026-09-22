@@ -2,6 +2,8 @@ jay=1
 jadhav=2
 nashik=3
 malegaon=4
+print("malegaon=4")
+my test file
 maharashtra=5
 pune=6
 print("pune=6")
